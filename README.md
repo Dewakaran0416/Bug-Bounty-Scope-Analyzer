@@ -1,4 +1,4 @@
-# ScopeSage – AI Bug Bounty Scope Analyzer
+AI Bug Bounty Scope Analyzer
 
 ScopeSage is a Python-based tool designed to help security researchers quickly understand bug bounty program policies.
 It automatically analyzes program pages, identifies allowed vulnerability types, and recommends the best tools for testing.
@@ -139,4 +139,4 @@ Always follow the rules of the bug bounty program and test only assets that are 
 ## Author
 
 Developed as part of a cybersecurity learning project focused on bug bounty automation and security research workflows.
-# Bug-Bounty-Scope-Analyzer
+
